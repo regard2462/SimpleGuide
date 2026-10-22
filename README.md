@@ -17,8 +17,6 @@ no navigation, no account.
 
 [Deutsche Fassung](README.de.md)
 
-<p><a href="https://buymeacoffee.com/regard2462"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy me a coffee"></a></p>
-
 ## Features
 
 | Area | Function |
