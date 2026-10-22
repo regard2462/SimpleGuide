@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit
  * Tausende Anfragen für eine ganze Stadt durch.
  */
 object Http {
-    const val USER_AGENT = "SimpleGuide/${BuildConfig.VERSION_NAME} (https://github.com/regard2462/SimpleGuide; offline city audio guide)"
+    const val USER_AGENT = "PassingBy/${BuildConfig.VERSION_NAME} (https://github.com/regard2462/PassingBy; offline city audio guide)"
 
     val client: OkHttpClient = OkHttpClient.Builder()
         .connectTimeout(20, TimeUnit.SECONDS)

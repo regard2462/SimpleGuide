@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Simple Guide</string>
+    <string name="app_name" translatable="false">Passing By</string>
     <string name="tagline">Your audio guide for walking through town – from Wikipedia, spoken on the phone, offline if you like.</string>
     <string name="tab_tour">Tour</string>
     <string name="tab_cities">Cities</string>

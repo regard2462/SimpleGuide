@@ -626,7 +626,7 @@ class TourService : Service(), Speaker.Listener {
 
     private fun acquireWake() {
         if (wakeLock == null) {
-            wakeLock = getSystemService(PowerManager::class.java).newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "SimpleGuide:speak")
+            wakeLock = getSystemService(PowerManager::class.java).newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "PassingBy:speak")
                 .apply { setReferenceCounted(false) }
         }
         wakeLock?.acquire(3 * 60_000L)

@@ -24,7 +24,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:enableOnBackInvokedCallback="true"
-        android:theme="@style/Theme.SimpleGuide"
+        android:theme="@style/Theme.PassingBy"
         tools:targetApi="35">
 
         <activity

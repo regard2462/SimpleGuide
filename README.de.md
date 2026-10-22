@@ -1,8 +1,8 @@
-<img src="docs/logo/logo.png" alt="Simple-Guide-Logo" width="96" align="right">
+<img src="docs/logo/logo.png" alt="Passing-By-Logo" width="96" align="right">
 
-# Simple Guide
+# Passing By
 
-Simple Guide ist ein Audioguide für Spaziergänge durch die Stadt. Handy in die Tasche, Kopfhörer auf, Musik an
+*Geschichten der Orte, an denen du vorbeikommst.* Passing By ist ein Audioguide für Spaziergänge durch die Stadt. Handy in die Tasche, Kopfhörer auf, Musik an
 und loslaufen: Kommst du an etwas vorbei, das einen Wikipedia-Artikel hat, sagt dir die App, wo es ist und was es
 damit auf sich hat – „Wenn du nach rechts schaust, siehst du den Bertoldsbrunnen. Er ist ein Denkmal in der
 Altstadt von Freiburg im Breisgau …“. Deine Musik pausiert dafür kurz und läuft danach von selbst weiter.
@@ -11,7 +11,7 @@ Die Stimme läuft komplett auf dem Handy (Piper, Kokoro, Supertonic über sherpa
 Wikipedia, unterwegs nachgeladen oder für ganze Städte vorab heruntergeladen. Formuliert wird ohne Sprachmodell:
 mit Regeln, Vorlagen und dem, was in den Artikeln steht.
 
-Simple Guide ist ein Fork von [Simple Narrator](https://github.com/regard2462/SimpleNarrator) und übernimmt
+Passing By (früher „Simple Guide“) ist ein Fork von [Simple Narrator](https://github.com/regard2462/SimpleNarrator) und übernimmt
 dessen Sprachausgabe und Textaufbereitung (Zahlen, Daten, Abkürzungen). Alles andere ist bewusst weggelassen –
 keine Karte, keine Navigation, kein Konto.
 

@@ -13,5 +13,5 @@ dependencyResolutionManagement {
         maven { url = uri("https://jitpack.io") } // sherpa-onnx AAR (offizieller Weg laut k2-fsa-Demo)
     }
 }
-rootProject.name = "SimpleGuide"
+rootProject.name = "PassingBy"
 include(":app")
