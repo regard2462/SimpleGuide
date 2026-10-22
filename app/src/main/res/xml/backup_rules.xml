@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Gesichert werden nur die Einstellungen; Artikel und Stimmen lassen sich neu laden. -->
+<full-backup-content>
+    <include domain="file" path="datastore/settings.preferences_pb" />
+    <include domain="sharedpref" path="app_language.xml" />
+</full-backup-content>
